@@ -41,7 +41,6 @@ struct ButtonStyleBootcamp: View {
                 .withDefaultButtonFormatting()
 
         })
-//            .buttonStyle(PressableButtonStyle())
             .withPressableStyle(scaledAmount: 0.9)
             .padding(40)
 
