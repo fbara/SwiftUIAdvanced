@@ -16,6 +16,7 @@
 		ADE952BC2730542F00A53A35 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADE952BB2730542F00A53A35 /* Preview Assets.xcassets */; };
 		ADE952C32730546100A53A35 /* ViewModifierBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE952C22730546100A53A35 /* ViewModifierBootcamp.swift */; };
 		ADE952C52730693400A53A35 /* ButtonStyleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE952C42730693400A53A35 /* ButtonStyleBootcamp.swift */; };
+		ADF8B9302734184800C491C9 /* AnimateableDataBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF8B92F2734184800C491C9 /* AnimateableDataBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		ADE952BB2730542F00A53A35 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		ADE952C22730546100A53A35 /* ViewModifierBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModifierBootcamp.swift; sourceTree = "<group>"; };
 		ADE952C42730693400A53A35 /* ButtonStyleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStyleBootcamp.swift; sourceTree = "<group>"; };
+		ADF8B92F2734184800C491C9 /* AnimateableDataBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimateableDataBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				AD77232A2733181B00165A23 /* CustomShapesBootcamp.swift */,
 				AD77232E27331E3700165A23 /* CustomCurvesBootcamp.swift */,
+				ADF8B92F2734184800C491C9 /* AnimateableDataBootcamp.swift */,
 			);
 			path = "Custom Shapes";
 			sourceTree = "<group>";
@@ -194,6 +197,7 @@
 			files = (
 				ADE952C52730693400A53A35 /* ButtonStyleBootcamp.swift in Sources */,
 				AD6EFD3627308E7500EF8973 /* AnyTransitionBootcamp.swift in Sources */,
+				ADF8B9302734184800C491C9 /* AnimateableDataBootcamp.swift in Sources */,
 				ADE952C32730546100A53A35 /* ViewModifierBootcamp.swift in Sources */,
 				ADE952B52730542D00A53A35 /* SwiftUIAdvancedApp.swift in Sources */,
 				AD7723292732D96C00165A23 /* MatchedGeometryEffectBootcamp.swift in Sources */,
