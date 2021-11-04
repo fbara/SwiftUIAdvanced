@@ -17,6 +17,7 @@
 		ADE952C32730546100A53A35 /* ViewModifierBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE952C22730546100A53A35 /* ViewModifierBootcamp.swift */; };
 		ADE952C52730693400A53A35 /* ButtonStyleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE952C42730693400A53A35 /* ButtonStyleBootcamp.swift */; };
 		ADF8B9302734184800C491C9 /* AnimateableDataBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF8B92F2734184800C491C9 /* AnimateableDataBootcamp.swift */; };
+		ADF8B93327341CEE00C491C9 /* GenericsBootcamp.swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF8B93227341CEE00C491C9 /* GenericsBootcamp.swift.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		ADE952C22730546100A53A35 /* ViewModifierBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModifierBootcamp.swift; sourceTree = "<group>"; };
 		ADE952C42730693400A53A35 /* ButtonStyleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStyleBootcamp.swift; sourceTree = "<group>"; };
 		ADF8B92F2734184800C491C9 /* AnimateableDataBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimateableDataBootcamp.swift; sourceTree = "<group>"; };
+		ADF8B93227341CEE00C491C9 /* GenericsBootcamp.swift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenericsBootcamp.swift.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 			isa = PBXGroup;
 			children = (
 				ADE952B42730542D00A53A35 /* SwiftUIAdvancedApp.swift */,
+				ADF8B93127341CC800C491C9 /* Generics */,
 				AD77232C2733182500165A23 /* Custom Shapes */,
 				AD7723272732D94800165A23 /* GeometryReader */,
 				ADE952CA27308B7600A53A35 /* AnyTransition */,
@@ -123,6 +126,14 @@
 				AD6EFD3527308E7500EF8973 /* AnyTransitionBootcamp.swift */,
 			);
 			path = AnyTransition;
+			sourceTree = "<group>";
+		};
+		ADF8B93127341CC800C491C9 /* Generics */ = {
+			isa = PBXGroup;
+			children = (
+				ADF8B93227341CEE00C491C9 /* GenericsBootcamp.swift.swift */,
+			);
+			path = Generics;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -197,6 +208,7 @@
 			files = (
 				ADE952C52730693400A53A35 /* ButtonStyleBootcamp.swift in Sources */,
 				AD6EFD3627308E7500EF8973 /* AnyTransitionBootcamp.swift in Sources */,
+				ADF8B93327341CEE00C491C9 /* GenericsBootcamp.swift.swift in Sources */,
 				ADF8B9302734184800C491C9 /* AnimateableDataBootcamp.swift in Sources */,
 				ADE952C32730546100A53A35 /* ViewModifierBootcamp.swift in Sources */,
 				ADE952B52730542D00A53A35 /* SwiftUIAdvancedApp.swift in Sources */,
