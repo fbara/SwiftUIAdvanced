@@ -9,8 +9,6 @@ import Foundation
 import SwiftUI
 import Combine
 
-
-
 class UnitTestingBootcampViewModel: ObservableObject {
     
     @Published var isPremium: Bool
