@@ -17,6 +17,7 @@
 		AD2C694D273F0473009A0A71 /* SwiftUIAdvanced_UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2C694C273F0473009A0A71 /* SwiftUIAdvanced_UITestsLaunchTests.swift */; };
 		AD2C6954273F0575009A0A71 /* UITestingBootcampView_UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2C6953273F0575009A0A71 /* UITestingBootcampView_UITests.swift */; };
 		AD6EFD3627308E7500EF8973 /* AnyTransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6EFD3527308E7500EF8973 /* AnyTransitionBootcamp.swift */; };
+		AD6F67F82746A68B006142E9 /* FuturesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6F67F72746A68B006142E9 /* FuturesBootcamp.swift */; };
 		AD7723292732D96C00165A23 /* MatchedGeometryEffectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7723282732D96C00165A23 /* MatchedGeometryEffectBootcamp.swift */; };
 		AD77232B2733181B00165A23 /* CustomShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD77232A2733181B00165A23 /* CustomShapesBootcamp.swift */; };
 		AD77232F27331E3700165A23 /* CustomCurvesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD77232E27331E3700165A23 /* CustomCurvesBootcamp.swift */; };
@@ -79,6 +80,7 @@
 		AD2C694C273F0473009A0A71 /* SwiftUIAdvanced_UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIAdvanced_UITestsLaunchTests.swift; sourceTree = "<group>"; };
 		AD2C6953273F0575009A0A71 /* UITestingBootcampView_UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITestingBootcampView_UITests.swift; sourceTree = "<group>"; };
 		AD6EFD3527308E7500EF8973 /* AnyTransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyTransitionBootcamp.swift; sourceTree = "<group>"; };
+		AD6F67F72746A68B006142E9 /* FuturesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FuturesBootcamp.swift; sourceTree = "<group>"; };
 		AD7723282732D96C00165A23 /* MatchedGeometryEffectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchedGeometryEffectBootcamp.swift; sourceTree = "<group>"; };
 		AD77232A2733181B00165A23 /* CustomShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomShapesBootcamp.swift; sourceTree = "<group>"; };
 		AD77232E27331E3700165A23 /* CustomCurvesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCurvesBootcamp.swift; sourceTree = "<group>"; };
@@ -256,6 +258,7 @@
 			isa = PBXGroup;
 			children = (
 				ADD458D52742A8CB00A4B1D6 /* AdvancedCombineBootcamp.swift */,
+				AD6F67F72746A68B006142E9 /* FuturesBootcamp.swift */,
 			);
 			path = Combine;
 			sourceTree = "<group>";
@@ -534,6 +537,7 @@
 				AD06FF3C273982FD00AFDFE8 /* CustomNavBarView.swift in Sources */,
 				ADF8B93D2734731E00C491C9 /* ScrollViewOffsetPreferenceKeyBootcamp.swift in Sources */,
 				ADE952C32730546100A53A35 /* ViewModifierBootcamp.swift in Sources */,
+				AD6F67F82746A68B006142E9 /* FuturesBootcamp.swift in Sources */,
 				AD8EDA74273AD62200FD74DB /* UIViewControllerRepresentableBootcamp.swift in Sources */,
 				AD06FF422739949B00AFDFE8 /* CustomNavLink.swift in Sources */,
 				ADF8B936273424AC00C491C9 /* ViewBuilderBootcamp.swift in Sources */,
