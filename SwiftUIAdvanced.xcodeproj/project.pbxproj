@@ -36,6 +36,7 @@
 		ADCEB60E273C26D4001D44F8 /* DependencyInjectionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCEB60D273C26D4001D44F8 /* DependencyInjectionBootcamp.swift */; };
 		ADCEB611273C6041001D44F8 /* UnitTestingBootcampView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCEB610273C6041001D44F8 /* UnitTestingBootcampView.swift */; };
 		ADCEB613273C621C001D44F8 /* UnitTestingBootcampViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCEB612273C621C001D44F8 /* UnitTestingBootcampViewModel.swift */; };
+		ADD458D62742A8CB00A4B1D6 /* AdvancedCombineBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD458D52742A8CB00A4B1D6 /* AdvancedCombineBootcamp.swift */; };
 		ADE952B52730542D00A53A35 /* SwiftUIAdvancedApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE952B42730542D00A53A35 /* SwiftUIAdvancedApp.swift */; };
 		ADE952B92730542F00A53A35 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADE952B82730542F00A53A35 /* Assets.xcassets */; };
 		ADE952BC2730542F00A53A35 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADE952BB2730542F00A53A35 /* Preview Assets.xcassets */; };
@@ -98,6 +99,7 @@
 		ADCEB60D273C26D4001D44F8 /* DependencyInjectionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DependencyInjectionBootcamp.swift; sourceTree = "<group>"; };
 		ADCEB610273C6041001D44F8 /* UnitTestingBootcampView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitTestingBootcampView.swift; sourceTree = "<group>"; };
 		ADCEB612273C621C001D44F8 /* UnitTestingBootcampViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitTestingBootcampViewModel.swift; sourceTree = "<group>"; };
+		ADD458D52742A8CB00A4B1D6 /* AdvancedCombineBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvancedCombineBootcamp.swift; sourceTree = "<group>"; };
 		ADE952B12730542D00A53A35 /* SwiftUIAdvanced.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIAdvanced.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADE952B42730542D00A53A35 /* SwiftUIAdvancedApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIAdvancedApp.swift; sourceTree = "<group>"; };
 		ADE952B82730542F00A53A35 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -250,6 +252,14 @@
 			path = UnitTesting;
 			sourceTree = "<group>";
 		};
+		ADD458D42742A8B100A4B1D6 /* Combine */ = {
+			isa = PBXGroup;
+			children = (
+				ADD458D52742A8CB00A4B1D6 /* AdvancedCombineBootcamp.swift */,
+			);
+			path = Combine;
+			sourceTree = "<group>";
+		};
 		ADE952A82730542D00A53A35 = {
 			isa = PBXGroup;
 			children = (
@@ -274,6 +284,7 @@
 		ADE952B32730542D00A53A35 /* SwiftUIAdvanced */ = {
 			isa = PBXGroup;
 			children = (
+				ADD458D42742A8B100A4B1D6 /* Combine */,
 				AD897835273EB8A5000DE69B /* UITesting */,
 				ADCEB60F273C6028001D44F8 /* UnitTesting */,
 				ADCEB60C273C2657001D44F8 /* DependencyInjection */,
@@ -518,6 +529,7 @@
 				ADF8B93327341CEE00C491C9 /* GenericsBootcamp.swift.swift in Sources */,
 				ADF8B9302734184800C491C9 /* AnimateableDataBootcamp.swift in Sources */,
 				ADC7175F273570E3004B1884 /* CustomTabBarView.swift in Sources */,
+				ADD458D62742A8CB00A4B1D6 /* AdvancedCombineBootcamp.swift in Sources */,
 				AD06FF402739936600AFDFE8 /* CustomNavView.swift in Sources */,
 				AD06FF3C273982FD00AFDFE8 /* CustomNavBarView.swift in Sources */,
 				ADF8B93D2734731E00C491C9 /* ScrollViewOffsetPreferenceKeyBootcamp.swift in Sources */,
