@@ -18,6 +18,8 @@
 		AD2C6954273F0575009A0A71 /* UITestingBootcampView_UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2C6953273F0575009A0A71 /* UITestingBootcampView_UITests.swift */; };
 		AD6EFD3627308E7500EF8973 /* AnyTransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6EFD3527308E7500EF8973 /* AnyTransitionBootcamp.swift */; };
 		AD6F67F82746A68B006142E9 /* FuturesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6F67F72746A68B006142E9 /* FuturesBootcamp.swift */; };
+		AD6F67FB2746DE97006142E9 /* CloudKitUserBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6F67FA2746DE97006142E9 /* CloudKitUserBootcamp.swift */; };
+		AD6F67FF2746DF21006142E9 /* CloudKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD6F67FE2746DF21006142E9 /* CloudKit.framework */; };
 		AD7723292732D96C00165A23 /* MatchedGeometryEffectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7723282732D96C00165A23 /* MatchedGeometryEffectBootcamp.swift */; };
 		AD77232B2733181B00165A23 /* CustomShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD77232A2733181B00165A23 /* CustomShapesBootcamp.swift */; };
 		AD77232F27331E3700165A23 /* CustomCurvesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD77232E27331E3700165A23 /* CustomCurvesBootcamp.swift */; };
@@ -38,6 +40,7 @@
 		ADCEB611273C6041001D44F8 /* UnitTestingBootcampView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCEB610273C6041001D44F8 /* UnitTestingBootcampView.swift */; };
 		ADCEB613273C621C001D44F8 /* UnitTestingBootcampViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCEB612273C621C001D44F8 /* UnitTestingBootcampViewModel.swift */; };
 		ADD458D62742A8CB00A4B1D6 /* AdvancedCombineBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD458D52742A8CB00A4B1D6 /* AdvancedCombineBootcamp.swift */; };
+		ADDECD572748125800679C3D /* CloudKitCrudBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDECD562748125800679C3D /* CloudKitCrudBootcamp.swift */; };
 		ADE952B52730542D00A53A35 /* SwiftUIAdvancedApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE952B42730542D00A53A35 /* SwiftUIAdvancedApp.swift */; };
 		ADE952B92730542F00A53A35 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADE952B82730542F00A53A35 /* Assets.xcassets */; };
 		ADE952BC2730542F00A53A35 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADE952BB2730542F00A53A35 /* Preview Assets.xcassets */; };
@@ -81,6 +84,9 @@
 		AD2C6953273F0575009A0A71 /* UITestingBootcampView_UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITestingBootcampView_UITests.swift; sourceTree = "<group>"; };
 		AD6EFD3527308E7500EF8973 /* AnyTransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyTransitionBootcamp.swift; sourceTree = "<group>"; };
 		AD6F67F72746A68B006142E9 /* FuturesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FuturesBootcamp.swift; sourceTree = "<group>"; };
+		AD6F67FA2746DE97006142E9 /* CloudKitUserBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloudKitUserBootcamp.swift; sourceTree = "<group>"; };
+		AD6F67FC2746DEF9006142E9 /* SwiftUIAdvanced.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SwiftUIAdvanced.entitlements; sourceTree = "<group>"; };
+		AD6F67FE2746DF21006142E9 /* CloudKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CloudKit.framework; path = System/Library/Frameworks/CloudKit.framework; sourceTree = SDKROOT; };
 		AD7723282732D96C00165A23 /* MatchedGeometryEffectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchedGeometryEffectBootcamp.swift; sourceTree = "<group>"; };
 		AD77232A2733181B00165A23 /* CustomShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomShapesBootcamp.swift; sourceTree = "<group>"; };
 		AD77232E27331E3700165A23 /* CustomCurvesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCurvesBootcamp.swift; sourceTree = "<group>"; };
@@ -102,6 +108,7 @@
 		ADCEB610273C6041001D44F8 /* UnitTestingBootcampView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitTestingBootcampView.swift; sourceTree = "<group>"; };
 		ADCEB612273C621C001D44F8 /* UnitTestingBootcampViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitTestingBootcampViewModel.swift; sourceTree = "<group>"; };
 		ADD458D52742A8CB00A4B1D6 /* AdvancedCombineBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvancedCombineBootcamp.swift; sourceTree = "<group>"; };
+		ADDECD562748125800679C3D /* CloudKitCrudBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloudKitCrudBootcamp.swift; sourceTree = "<group>"; };
 		ADE952B12730542D00A53A35 /* SwiftUIAdvanced.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIAdvanced.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADE952B42730542D00A53A35 /* SwiftUIAdvancedApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIAdvancedApp.swift; sourceTree = "<group>"; };
 		ADE952B82730542F00A53A35 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -135,6 +142,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AD6F67FF2746DF21006142E9 /* CloudKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -157,6 +165,23 @@
 				AD2C6953273F0575009A0A71 /* UITestingBootcampView_UITests.swift */,
 			);
 			path = SwiftUIAdvanced_UITests;
+			sourceTree = "<group>";
+		};
+		AD6F67F92746DE82006142E9 /* CloudKit */ = {
+			isa = PBXGroup;
+			children = (
+				AD6F67FA2746DE97006142E9 /* CloudKitUserBootcamp.swift */,
+				ADDECD562748125800679C3D /* CloudKitCrudBootcamp.swift */,
+			);
+			path = CloudKit;
+			sourceTree = "<group>";
+		};
+		AD6F67FD2746DF21006142E9 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AD6F67FE2746DF21006142E9 /* CloudKit.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 		AD7723272732D94800165A23 /* GeometryReader */ = {
@@ -271,6 +296,7 @@
 				AD780610273D605900D2F2C0 /* SwiftUIAdvanced_Tests */,
 				AD2C6949273F0473009A0A71 /* SwiftUIAdvanced_UITests */,
 				ADE952B22730542D00A53A35 /* Products */,
+				AD6F67FD2746DF21006142E9 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -287,6 +313,8 @@
 		ADE952B32730542D00A53A35 /* SwiftUIAdvanced */ = {
 			isa = PBXGroup;
 			children = (
+				AD6F67FC2746DEF9006142E9 /* SwiftUIAdvanced.entitlements */,
+				AD6F67F92746DE82006142E9 /* CloudKit */,
 				ADD458D42742A8B100A4B1D6 /* Combine */,
 				AD897835273EB8A5000DE69B /* UITesting */,
 				ADCEB60F273C6028001D44F8 /* UnitTesting */,
@@ -525,6 +553,7 @@
 				ADC71763273579E9004B1884 /* TabBarItemsPreferenceKey.swift in Sources */,
 				ADCEB611273C6041001D44F8 /* UnitTestingBootcampView.swift in Sources */,
 				ADC7175D27356E63004B1884 /* AppTabBarView.swift in Sources */,
+				ADDECD572748125800679C3D /* CloudKitCrudBootcamp.swift in Sources */,
 				AD06FF472739BEA700AFDFE8 /* UIViewRepresentableBootcamp.swift in Sources */,
 				ADE952C52730693400A53A35 /* ButtonStyleBootcamp.swift in Sources */,
 				AD6EFD3627308E7500EF8973 /* AnyTransitionBootcamp.swift in Sources */,
@@ -539,6 +568,7 @@
 				ADE952C32730546100A53A35 /* ViewModifierBootcamp.swift in Sources */,
 				AD6F67F82746A68B006142E9 /* FuturesBootcamp.swift in Sources */,
 				AD8EDA74273AD62200FD74DB /* UIViewControllerRepresentableBootcamp.swift in Sources */,
+				AD6F67FB2746DE97006142E9 /* CloudKitUserBootcamp.swift in Sources */,
 				AD06FF422739949B00AFDFE8 /* CustomNavLink.swift in Sources */,
 				ADF8B936273424AC00C491C9 /* ViewBuilderBootcamp.swift in Sources */,
 				ADE952B52730542D00A53A35 /* SwiftUIAdvancedApp.swift in Sources */,
@@ -782,6 +812,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = SwiftUIAdvanced/SwiftUIAdvanced.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIAdvanced/Preview Content\"";
@@ -811,6 +842,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = SwiftUIAdvanced/SwiftUIAdvanced.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIAdvanced/Preview Content\"";
